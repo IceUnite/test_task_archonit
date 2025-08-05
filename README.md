@@ -1,2 +1,2 @@
 
-<img src="assets/screenshot.png" alt="App Screenshot" width="600"/>
+<img src="assets/screenshots/screenshot.png" alt="App Screenshot" width="600"/>
